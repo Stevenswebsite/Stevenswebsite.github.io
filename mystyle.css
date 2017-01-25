@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-      background: url:'images/skateboarding12.jpg';      
+      background: url('images/skateboarding12.jpg');      
 	background-size: cover-color: black;
     a {
       color: black;
