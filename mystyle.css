@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-      background: url: "https://drive.google.com/file/d/0B4hm1aQtCN6HS3V6TzFjQW1ZZUk/view?usp=sharing";
+      background: url:('https://drive.google.com/file/d/0B4hm1aQtCN6HS3V6TzFjQW1ZZUk/view?usp=sharing');
       background-size: cover;
       color: White;
     }
