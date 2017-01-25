@@ -5,6 +5,16 @@ body {
     a {
       color: black;
     }
+);
+      background-size: cover;
+      color: black;
+    }
+    a {
+      color: white;
+    }
+    a {
+        color: blue;
+      }
     h1 {
       font-size: 45px;
     }
